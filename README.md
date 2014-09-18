@@ -16,7 +16,7 @@ Since v1.3 of LOLCODE is not official, (the latest version on lolcode.org as of 
 
 For Windows or Linux, run the following from the command line:
 
-`lci.exe LOLtracer.lol > LOLrender.ppm`
+`lci.exe LOLTracer.lol > LOLrender.ppm`
 
 Expect several hours render time for the image to complete with default settings. If you would like faster results, I recommend changing the number of rays used from 64 to a lower number. However since the pixel color is accumulated
 over many samples, the resulting image will be darker. If you lower the number of rays, I also recommend increasing the default colors for the ground and sky by a proportional amount.
