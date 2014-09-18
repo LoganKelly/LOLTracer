@@ -10,7 +10,7 @@ Download and install lci here:
  
 Since v1.3 of LOLCODE is not official, (the latest version on lolcode.org as of this writing is 1.2), it is recommended that you check the following website, or the lci google group, for the ways in which v1.3 differs from v1.2:
 
-[https://web.archive.org/web/20120420194728/http://lolcode.com/proposals/1.3/bukkit2(https://web.archive.org/web/20120420194728/http://lolcode.com/proposals/1.3/bukkit2)
+[https://web.archive.org/web/20120420194728/http://lolcode.com/proposals/1.3/bukkit2](https://web.archive.org/web/20120420194728/http://lolcode.com/proposals/1.3/bukkit2)
 
 ##Usage
 
@@ -25,17 +25,17 @@ over many samples, the resulting image will be darker. If you lower the number o
 
 The LOLtracer was written, on a dare, to see if it would be possible to implement a raytracer in LOLCODE. I am happy to report that it is VERY MUCH possible, although not terribly fast. The LOLtracer also attempts to be as faithful as possible to the implementation of Paul Heckbert's business card raytracer:
 
-(http://fabiensanglard.net/rayTracing_back_of_business_card/)[http://fabiensanglard.net/rayTracing_back_of_business_card/]
+[http://fabiensanglard.net/rayTracing_back_of_business_card/](http://fabiensanglard.net/rayTracing_back_of_business_card/)
 
 Additional information about his raytracer can be
 found here:
 
-(https://news.ycombinator.com/item?id=6425965)[https://news.ycombinator.com/item?id=6425965]
+[https://news.ycombinator.com/item?id=6425965](https://news.ycombinator.com/item?id=6425965)
 
 And a python version of his raytracer by Ivo van der Wijk
 can also be found here:
 
-(http://vanderwijk.info/blog/business-card-raytracer-in-python/)[http://vanderwijk.info/blog/business-card-raytracer-in-python/]
+[http://vanderwijk.info/blog/business-card-raytracer-in-python/](http://vanderwijk.info/blog/business-card-raytracer-in-python/)
 
 Most of the challenge in faithfully reproducing
 Heckbert's raytracer in LOLCODE lay in finding ways
