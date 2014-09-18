@@ -23,7 +23,7 @@ over many samples, the resulting image will be darker. If you lower the number o
 
 ##Background
 
-The LOLtracer was written, on a dare, to see if it would be possible to implement a raytracer in LOLCODE. I am happy to report that it is VERY MUCH possible, although not terribly fast. The LOLtracer also attempts to be as faithful as possible to the implementation of Paul Heckbert's business card raytracer:
+The LOLtracer was written, on a dare, to see if it would be possible to implement a raytracer in LOLCODE. I am happy to report that it is VERY MUCH possible, although not terribly fast. The LOLtracer also attempts to be as faithful as possible to the implementation of Andrew Kensler's business card raytracer:
 
 [http://fabiensanglard.net/rayTracing_back_of_business_card/](http://fabiensanglard.net/rayTracing_back_of_business_card/)
 
@@ -38,7 +38,7 @@ can also be found here:
 [http://vanderwijk.info/blog/business-card-raytracer-in-python/](http://vanderwijk.info/blog/business-card-raytracer-in-python/)
 
 Most of the challenge in faithfully reproducing
-Heckbert's raytracer in LOLCODE lay in finding ways
+Kensler's raytracer in LOLCODE lay in finding ways
 to have access to the same standard library of functions
 available in C that are used in the business card raytracer.
 v1.3 of LOLCODE does not have bindings for C standard lib,
