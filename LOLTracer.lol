@@ -841,6 +841,15 @@ HAI 1.3
             write_color'Z x IS NOW A NUMBR
             write_color'Z y IS NOW A NUMBR
             write_color'Z z IS NOW A NUMBR
+            DIFFRINT write_color'Z x AN BIGGR OF write_color'Z x AN 0, O RLY?
+                YA RLY, write_color'Z x R 0
+            OIC
+            DIFFRINT write_color'Z y AN BIGGR OF write_color'Z y AN 0, O RLY?
+                YA RLY, write_color'Z y R 0
+            OIC
+            DIFFRINT write_color'Z z AN BIGGR OF write_color'Z z AN 0, O RLY?
+                YA RLY, write_color'Z z R 0
+            OIC
             VISIBLE " " write_color'Z x " " ...
                     " " write_color'Z y " " ...
                     " " write_color'Z z " "!
