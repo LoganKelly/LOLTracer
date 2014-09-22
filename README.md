@@ -1,5 +1,7 @@
 #LOLTracer
 
+![alt tag](https://raw.githubusercontent.com/LoganKelly/LOLTracer/master/LOLRender.png)
+
 ##Setup
 
 The following LOLCODE was written and executed using lci v0.10.5. It uses v1.3 of the specification as implemented in that version of lci. Compatibility with other LOLCODE compilers and interpreters is not guaranteed (nor is it very likely).
