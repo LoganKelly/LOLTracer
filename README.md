@@ -1,8 +1,8 @@
-#LOLTracer
+# LOLTracer
 
 ![alt tag](https://raw.githubusercontent.com/LoganKelly/LOLTracer/master/LOLRender.png)
 
-##Setup
+## Setup
 
 The following LOLCODE was written and executed using lci v0.10.5. It uses v1.3 of the specification as implemented in that version of lci. Compatibility with other LOLCODE compilers and interpreters is not guaranteed (nor is it very likely).
 
@@ -14,7 +14,7 @@ Since v1.3 of LOLCODE is not official, (the latest version on lolcode.org as of 
 
 [https://web.archive.org/web/20120420194728/http://lolcode.com/proposals/1.3/bukkit2](https://web.archive.org/web/20120420194728/http://lolcode.com/proposals/1.3/bukkit2)
 
-##Usage
+## Usage
 
 For Windows or Linux, run the following from the command line:
 
@@ -23,7 +23,7 @@ For Windows or Linux, run the following from the command line:
 Expect several hours render time for the image to complete with default settings. On my home desktop with a Quad Core 2.4 Ghz CPU it took approximately 40 hours to complete. If you would like faster results, I recommend changing the number of rays used from 64 to a lower number. However since the pixel color is accumulated
 over many samples, the resulting image will be darker. If you lower the number of rays, I also recommend increasing the default colors for the ground and sky by a proportional amount.
 
-##Background
+## Background
 
 The LOLtracer was written, on a dare, to see if it would be possible to implement a raytracer in LOLCODE. I am happy to report that it is VERY MUCH possible, although not terribly fast. The LOLtracer also attempts to be as faithful as possible to the implementation of Andrew Kensler's business card raytracer:
 
@@ -51,10 +51,10 @@ left and bitwise and as well, but those operations proved
 far too slow even for LOLCODE. Even though they are
 no longer called, those functions are left in for posterity.
 
-##Author
+## Author
 
 Logan Kelly (logan.kelly@gmail.com)
 
-##Date
+## Date
 
 Sept. 17th, 2014
